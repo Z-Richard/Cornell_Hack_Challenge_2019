@@ -6,4 +6,5 @@
 6. iOS: all of our constraints have implemented autolayout NSLayoutConstraint
         We have one UITableView in the homescreen
         We have a back button and an upload button to navigate between screens (UINavigationController and UITabBarController)
-        
+7. Backend: Implement the backend using SQLAlchemy
+        Have a one-to-many relationship in the database (song -> comments)
